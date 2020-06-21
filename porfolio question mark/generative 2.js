@@ -184,7 +184,7 @@ function dualpic(salsa, width, height) {
 function bootstrapper() {
     var WIDTH = 800;
     var HEIGHT = 800;
-    var salsa = "pic.png";
+    var salsa = "https://i.imgur.com/P99fBQ4.png";
     dualpic(salsa, WIDTH, HEIGHT);
     
 }
