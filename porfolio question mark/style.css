@@ -1,0 +1,23 @@
+h1,h2,h3,h4{
+  font-family: 'Staatliches', cursive;
+  color: aliceblue;
+  font-family: Staatliches;
+  text-align: center;
+}
+*{
+  text-align: center;
+}
+body {
+  background-color: #1a181b;
+  align-self: center;
+}
+canvas {
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  align-self: auto;
+}
+#imagenGuia {
+  display: none;
+}
