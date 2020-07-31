@@ -146,7 +146,7 @@ function dibujameEsta(imgCtx, width, height) {
   var updateFramerate = 50;
   var renderFrametime = 50;
   var CANVAS = document.createElement("canvas");
-  document.body.appendChild(CANVAS);
+  document.getElementById("animacion").appendChild(CANVAS);
   if (!CANVAS) return;
   CANVAS.width = width;
   CANVAS.height = height;
